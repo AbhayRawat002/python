@@ -1,100 +1,35 @@
 # Python Learning Repository
 
-## About
+This repository tracks my journey of learning Python — from core basics to small projects and ongoing practice/revision.
 
-This repository contains the Python programs, practice questions, and mini-projects that I completed while learning Python programming.
+## 📁 Folder Structure
 
-The goal of this repository is to document my learning journey, strengthen programming fundamentals, and keep all practice work organized in one place.
+### `basics/`
+Contains all the Python files I wrote while learning core concepts, including:
+- Variables, data types, type conversion
+- Strings, lists, tuples, dictionaries, sets
+- Conditional statements, loops (for/while)
+- Functions and recursion
+- File handling and exception handling
 
-Most of the files are topic-wise programs created while learning Python concepts, along with practice questions solved for better understanding. The repository also includes a collection of mini-projects built using the concepts learned during practice.
+### `mini_projects/`
+Small beginner projects built by applying the concepts learned in `basics/`, such as:
+- Dice Rolling Simulator
+- Number Guessing Game
+- To-Do List Manager
+- Rock Paper and Scissors
+- Student Result Manager
 
----
+### `practice/`
+My latest and ongoing work — a structured set of practice/revision questions to strengthen fundamentals, including:
+- `practice.ipynb` – my solutions and working notes for the practice questions
+- `practice_questions.pdf` – a 100-question practice set (easy revision → logic building → recursion/weak areas → mini project challenges)
 
-## Topics Covered
+## 🎯 Goal
+Build a strong foundation in Python through consistent practice, with a focus on problem-solving, recursion, and writing clean, function-based code — as a stepping stone toward data science, ML, and backend development.
 
-The repository includes programs related to:
-
-- Python Basics
-- Variables and Data Types
-- Input and Output
-- Conditional Statements
-- Loops
-- Functions
-- Lists and Tuples
-- Dictionaries and Sets
-- File Handling
-- Practice Questions
-
----
-
-## Practice Programs
-
-Each topic contains multiple examples and practice questions that helped me understand the concepts through hands-on coding.
-
-Examples include:
-
-- Basic Python programs
-- Loop-based problems
-- Function-based exercises
-- Dictionary and Set operations
-- File handling practice programs
-
----
-
-## Mini Projects
-
-The repository also contains a few beginner-level projects developed while learning Python:
-
-### To-Do List Application
-A simple command-line application to manage daily tasks.
-
-### Number Guessing Game
-A game where the user tries to guess a randomly generated number.
-
-### Rock-Paper-Scissors Game
-A Python implementation of the classic Rock-Paper-Scissors game.
-
-### Dice Rolling Simulator
-A simple dice rolling simulation using random number generation.
-
-### File Handling Mini Project
-A small project demonstrating file creation, reading, writing, and updating data.
-
----
-
-## Purpose of This Repository
-
-This repository serves as:
-
-- A record of my Python learning journey
-- A collection of solved practice questions
-- A reference for Python fundamentals
-- A foundation for future projects in Data Science and Machine Learning
-
----
-
-## Technologies Used
-
-- Python 3
-- VS Code
-- Jupyter Notebook (for some experiments)
-
----
-
-## Future Plans
-
-As I continue learning, I plan to add:
-
-- Object-Oriented Programming (OOP)
-- NumPy
-- Pandas
-- Data Visualization
-- Machine Learning Projects
-- Data Analysis Projects
-
----
-
-## Author
+## 🚧 Status
+Actively in progress — practice/revision questions are being solved and reviewed regularly.
 
 Abhay Rawat
 
