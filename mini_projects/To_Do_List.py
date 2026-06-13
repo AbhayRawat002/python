@@ -18,8 +18,7 @@ def remove_task(tasks):
         print(f"Your to-do list: {tasks}")
     except ValueError:
         print("Task not found!")
-
-
+        
 while True:
 
     print("1. View Tasks")

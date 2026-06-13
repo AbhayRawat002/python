@@ -10,7 +10,7 @@ def add_student():
 
 def view_students():
     try:
-        with open("students.txt", "r") as f:
+        with open("student.txt", "r") as f:
             print("\n--- Student Records ---")
             print(f.read())
     except FileNotFoundError:
